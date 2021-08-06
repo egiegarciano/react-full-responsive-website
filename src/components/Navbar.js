@@ -59,7 +59,6 @@ function Navbar() {
                 Products
               </Link>
             </li>
-
             <li>
               <Link
                 to='/sign-up'
